@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+I am a student, looking to explore more in this field
 
 <!--
 **NU-Mitul/NU-Mitul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
